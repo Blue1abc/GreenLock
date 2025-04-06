@@ -1,0 +1,11 @@
+Parameter 1: Enter the amount of minutes for the scheduled timer in the line below, or leave as 0 to skip (WARNING: ENTER A WHOLE NUMBER! ADD ADDITIONAL SECONDS IF YOU ENTER 0 AS MINUTES!):
+60
+Parameter 2: Enter the amount of additional seconds for the scheduled timer in the line below, or leave as 0 to skip (WARNING: ENTER A WHOLE NUMBER!):
+0
+Parameter 3: Enter the precision of the countdown in the line below, or leave as 1 to skip. Precision is the amount of seconds until the countdown updates (WARNING: ENTER A WHOLE NUMBER ABOVE 0!):
+1
+Parameter 4: Enter 0 in the line below if you want abrupt mode to be disabled or 1 if you want it to be enabled. Abrupt mode disabled prompts you to save files before shutting down but enabled doesn't:
+0
+Parameter 5: Enter your preferred color in the line below or type 2f to skip. You must enter a 2-digit hexadecimal value where the 1st digit is background color and 2nd digit is text color. Each digit must be one of these values: 0=black, 1=blue, 2=green, 3=aqua, 4=red, 5=purple, 6=orange, 7=white, 8=gray, 9=light blue, a=light green, b=light aqua, c=light red, d=light purple, e=light yellow, f=bright white:
+2f
+Make sure to press Ctrl+S after editing this file.
